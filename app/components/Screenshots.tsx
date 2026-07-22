@@ -60,7 +60,7 @@ export default function Screenshots() {
               src="/screenshots/widget-home.png"
               alt="Clearway widget on an Android home screen: 9 days clear, $26 saved, and the next milestone"
               width={540}
-              height={696}
+              height={679}
               className="h-auto w-full rounded-[28px]"
               sizes="(max-width: 640px) 80vw, 360px"
             />

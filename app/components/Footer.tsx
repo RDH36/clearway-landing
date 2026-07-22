@@ -40,6 +40,12 @@ export default function Footer() {
             <Link href="/terms" className="transition-colors hover:text-ink">
               Terms of Service
             </Link>
+            <Link
+              href="/delete-data"
+              className="transition-colors hover:text-ink"
+            >
+              Delete my data
+            </Link>
             <a
               href="mailto:raymond.dzeryhago36@gmail.com"
               className="transition-colors hover:text-ink"
