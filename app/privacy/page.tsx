@@ -57,6 +57,20 @@ export default function PrivacyPage() {
         .
       </p>
 
+      <h2>Feedback you send us</h2>
+      <p>
+        If you choose to send feedback from the app (Settings &rarr; Send
+        feedback), the message you write — and any contact detail you decide to
+        include — is sent to us and stored in our database, which is hosted by{" "}
+        <strong>Supabase</strong>. We use it only to read your feedback and
+        improve Clearway. This is the one piece of information that leaves your
+        device, and only when you deliberately send it. See{" "}
+        <a href="https://supabase.com/privacy" target="_blank" rel="noreferrer">
+          Supabase&rsquo;s privacy policy
+        </a>{" "}
+        for how they process data on our behalf.
+      </p>
+
       <h2>Purchases and subscriptions</h2>
       <p>
         Clearway offers optional premium features through a subscription. Payments

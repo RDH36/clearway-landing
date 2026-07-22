@@ -84,14 +84,15 @@ export default function DeleteDataPage() {
         left behind on a server, because it was never there.
       </p>
 
-      <h2>Analytics and purchase data</h2>
+      <h2>Analytics, feedback, and purchase data</h2>
       <p>
-        Beyond your on-device data, two providers process a limited amount of
+        Beyond your on-device data, a few providers process a limited amount of
         information on our behalf: <strong>PostHog</strong> (anonymous, aggregated
-        usage events) and <strong>RevenueCat</strong> / <strong>Google Play</strong>{" "}
-        (your subscription status and purchase records). This data isn&rsquo;t
-        removed by the in-app delete. To request its deletion, email us at the
-        address below and we&rsquo;ll take care of it.
+        usage events), <strong>Supabase</strong> (any feedback you chose to send
+        us), and <strong>RevenueCat</strong> / <strong>Google Play</strong> (your
+        subscription status and purchase records). This data isn&rsquo;t removed
+        by the in-app delete. To request its deletion, email us at the address
+        below and we&rsquo;ll take care of it.
       </p>
 
       <h2>Contact</h2>

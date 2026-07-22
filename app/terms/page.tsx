@@ -85,6 +85,14 @@ export default function TermsPage() {
         your quit date and weekly spend), which drives the numbers the App shows.
       </p>
 
+      <h2>Feedback</h2>
+      <p>
+        If you send us feedback through the App, you grant us permission to store
+        and use it to improve Clearway. Feedback messages are stored in our
+        database, hosted by <strong>Supabase</strong>. Please don&rsquo;t include
+        sensitive personal information in a feedback message.
+      </p>
+
       <h2>Intellectual property</h2>
       <p>
         The App, its design, name, and content are owned by us and protected by
