@@ -33,13 +33,19 @@ export default function Footer() {
             </span>
           </Link>
 
-          <nav className="flex items-center gap-6 text-sm text-muted">
+          <nav className="flex flex-wrap items-center justify-center gap-x-6 gap-y-2 text-sm text-muted">
             <Link href="/privacy" className="transition-colors hover:text-ink">
               Privacy Policy
             </Link>
             <Link href="/terms" className="transition-colors hover:text-ink">
               Terms of Service
             </Link>
+            <a
+              href="mailto:raymond.dzeryhago36@gmail.com"
+              className="transition-colors hover:text-ink"
+            >
+              Contact
+            </a>
           </nav>
 
           <p className="text-sm text-muted">

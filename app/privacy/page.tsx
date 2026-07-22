@@ -111,7 +111,10 @@ export default function PrivacyPage() {
       <h2>Contact</h2>
       <p>
         Questions about privacy? Email us at{" "}
-        <a href="mailto:hello@clearway.app">hello@clearway.app</a>.
+        <a href="mailto:raymond.dzeryhago36@gmail.com">
+          raymond.dzeryhago36@gmail.com
+        </a>
+        .
       </p>
     </LegalShell>
   );
